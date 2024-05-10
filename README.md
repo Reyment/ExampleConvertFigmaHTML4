@@ -1,5 +1,5 @@
 
-# Mobile App Landing Page!
+# Mobile App Landing Page
 
 Welcome to my innovative mobile app landing page, designed to showcase the incredible features of our product.
 
