@@ -26,7 +26,7 @@ My landing page offers a captivating introduction to our mobile app, highlightin
 
 ## Screenshots
 
-![Screenshot 1](/src/images/homepage.png)
+![Screenshot 1](/images/homePageMobApp.png)
 *Screenshot 1: Overview of the landing page.*
 
 
