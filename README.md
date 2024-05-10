@@ -10,11 +10,18 @@ My landing page offers a captivating introduction to our mobile app, highlightin
 
 ## Features
 
-- Modern and responsive design
-- Clear and concise content
-- Engaging visuals and graphics
-- Call-to-action buttons for easy navigation
-- Integration with social media platforms
+- One Page
+- Sticky Navigation
+- Vivid Colors
+- 14 Descrete Sections
+- On-hover Animation
+- Carousel Slider
+- Social Media Icons
+- Pricing Plans Included
+- Themify Icons
+- Fully Responsive
+- Multi-browser Tested
+- Responsive Burger Menu
 
 
 ## Screenshots
@@ -26,8 +33,8 @@ My landing page offers a captivating introduction to our mobile app, highlightin
 ## Technologies Used
 
 - HTML5
-- SCSS
-- JavaScript
+- CSS
+- Javascript
   
 
 ## Getting Started
