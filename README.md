@@ -42,7 +42,7 @@ My landing page offers a captivating introduction to our mobile app, highlightin
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Reyment/InnovateHub.git
+   git clone https://github.com/Reyment/MobApp-Landing-Page.git
    
 3. Navigate to the project directory:
 	cd your-landing-page
